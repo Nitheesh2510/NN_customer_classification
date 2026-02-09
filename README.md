@@ -81,23 +81,28 @@ def train_model(model, train_loader, criterion, optimizer, epochs):
 
 ## Dataset Information
 
-<img width="1191" height="242" alt="image" src="https://github.com/user-attachments/assets/8c310b54-5115-49ae-ab17-ceacfaeb026f" />
+<img width="1154" height="243" alt="image" src="https://github.com/user-attachments/assets/a0ea83a6-2651-4421-9785-533da43a54ce" />
+
 
 ## OUTPUT
 
 ### Confusion Matrix
 
-<img width="649" height="551" alt="image" src="https://github.com/user-attachments/assets/75eda3ba-c4d2-49fa-9425-21c2c4dcc09c" />
+<img width="372" height="114" alt="image" src="https://github.com/user-attachments/assets/93d4d4a5-d6fd-469f-a4b0-0930ca71dad4" />
+
+<img width="866" height="648" alt="image" src="https://github.com/user-attachments/assets/ed2ce27d-c1e7-4814-a51d-cdc97c441399" />
 
 
 ### Classification Report
 
-<img width="1211" height="648" alt="image" src="https://github.com/user-attachments/assets/b07597b7-c923-4b51-9c2e-f1a0ff4a57f2" />
+<img width="1021" height="245" alt="image" src="https://github.com/user-attachments/assets/d0d7be07-06bc-4393-a206-08b5ef3263a5" />
+
 
 
 ### New Sample Data Prediction
 
-<img width="1608" height="173" alt="image" src="https://github.com/user-attachments/assets/83d7f5da-85ac-499c-8c69-27702b558570" />
+<img width="1671" height="103" alt="image" src="https://github.com/user-attachments/assets/57d09063-1447-4a9e-a527-71de4a92aea3" />
+
 
 
 ## RESULT
