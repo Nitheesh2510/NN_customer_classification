@@ -14,8 +14,7 @@ You are required to help the manager to predict the right group of the new custo
 
 ## Neural Network Model
 
-<img width="1130" height="831" alt="image" src="https://github.com/user-attachments/assets/5d9a257f-b3a4-4a3b-bcf2-b88e68e0796e" />
-
+![alt text](img/image5.png)
 
 ## DESIGN STEPS
 
@@ -81,28 +80,23 @@ def train_model(model, train_loader, criterion, optimizer, epochs):
 
 ## Dataset Information
 
-<img width="1154" height="243" alt="image" src="https://github.com/user-attachments/assets/a0ea83a6-2651-4421-9785-533da43a54ce" />
-
+![alt text](img/image-3.png)
 
 ## OUTPUT
 
 ### Confusion Matrix
 
-<img width="372" height="114" alt="image" src="https://github.com/user-attachments/assets/93d4d4a5-d6fd-469f-a4b0-0930ca71dad4" />
-
-<img width="866" height="648" alt="image" src="https://github.com/user-attachments/assets/ed2ce27d-c1e7-4814-a51d-cdc97c441399" />
-
+![alt text](img/image-2.png)
+![alt text](img/image-1.png)
 
 ### Classification Report
 
-<img width="1021" height="245" alt="image" src="https://github.com/user-attachments/assets/d0d7be07-06bc-4393-a206-08b5ef3263a5" />
-
+![alt text](img/image-4.png)
 
 
 ### New Sample Data Prediction
 
-<img width="1671" height="103" alt="image" src="https://github.com/user-attachments/assets/57d09063-1447-4a9e-a527-71de4a92aea3" />
-
+![alt text](img/image.png)
 
 
 ## RESULT
